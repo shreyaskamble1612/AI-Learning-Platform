@@ -1,0 +1,15 @@
+# syntax=docker/dockerfile:1
+FROM node:20-alpine AS base
+
+WORKDIR /app
+
+COPY apps/web/package.json ./
+# Run install if lockfile exists in the future
+# RUN npm install
+
+COPY apps/web ./
+
+EXPOSE 3000
+
+CMD ["npm", "run", "dev"]
+
