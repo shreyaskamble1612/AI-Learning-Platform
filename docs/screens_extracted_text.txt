@@ -1,0 +1,102 @@
+=== SCREEN 1 ===
+1
+01 — Landing Page
+LearnAI · UI design sequence · Screen 1 of 17
+
+
+=== SCREEN 2 ===
+2
+02 — Sign Up Page
+LearnAI · UI design sequence · Screen 2 of 17
+
+
+=== SCREEN 3 ===
+3
+03 — Login Page
+LearnAI · UI design sequence · Screen 3 of 17
+
+
+=== SCREEN 4 ===
+4
+04 — User Dashboard
+LearnAI · UI design sequence · Screen 4 of 17
+
+
+=== SCREEN 5 ===
+5
+05 — Create Your Course
+LearnAI · UI design sequence · Screen 5 of 17
+
+
+=== SCREEN 6 ===
+6
+06 — AI Course Generation
+LearnAI · UI design sequence · Screen 6 of 17
+
+
+=== SCREEN 7 ===
+7
+07 — Course Overview
+LearnAI · UI design sequence · Screen 7 of 17
+
+
+=== SCREEN 8 ===
+8
+08 — Lesson Details
+LearnAI · UI design sequence · Screen 8 of 17
+
+
+=== SCREEN 9 ===
+9
+09 — Video Lecture Player
+LearnAI · UI design sequence · Screen 9 of 17
+
+
+=== SCREEN 10 ===
+10
+10 — Lesson Notes & Examples
+LearnAI · UI design sequence · Screen 10 of 17
+
+
+=== SCREEN 11 ===
+11
+11 — AI Tutor
+LearnAI · UI design sequence · Screen 11 of 17
+
+
+=== SCREEN 12 ===
+12
+12 — Quiz & Assessment
+LearnAI · UI design sequence · Screen 12 of 17
+
+
+=== SCREEN 13 ===
+13
+13 — Quiz Results
+LearnAI · UI design sequence · Screen 13 of 17
+
+
+=== SCREEN 14 ===
+14
+14 — Learning Progress Dashboard
+LearnAI · UI design sequence · Screen 14 of 17
+
+
+=== SCREEN 15 ===
+15
+15 — Course History
+LearnAI · UI design sequence · Screen 15 of 17
+
+
+=== SCREEN 16 ===
+16
+16 — Bookmarks
+LearnAI · UI design sequence · Screen 16 of 17
+
+
+=== SCREEN 17 ===
+17
+17 — Profile & Settings
+LearnAI · UI design sequence · Screen 17 of 17
+
+
